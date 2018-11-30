@@ -1,0 +1,71 @@
+{
+    "channels": [
+	"#info-rules",
+	"#announcements",
+	"#crowd-forge-partnership",
+	"#role-grab",
+	"#sercret",
+	"#introduce-yourself",
+	"#ld-tools-resources",
+	"#general-chat",
+	"#game-dump",
+	"#progress-screenshots",
+	"#post-mortems",
+	"#promote-yourself",
+	"#game-dev",
+	"#art",
+	"#music",
+	"#help",
+	"#snailracing"
+    ],
+    "times": [
+	{
+	    "id": "ld42_begin",
+	    "title": "Ludum Dare 42 begins",
+	    "year": 2018,
+	    "month": 8,
+	    "day": 10,
+	    "hour": 22,
+	    "minute": 0
+	},
+	{
+	    "id": "ld42_compo",
+	    "title": "Ludum Dare 42 compo ends",
+	    "year": 2018,
+	    "month": 8,
+	    "day": 12,
+	    "hour": 22,
+	    "minute": 0,
+	    "blocked": ["ld42_begin"]
+	},
+	{
+	    "title": "Ludum Dare 42 compo submission hour ends",
+	    "year": 2018,
+	    "month": 8,
+	    "day": 12,
+	    "hour": 23,
+	    "minute": 0,
+	    "blocked": ["ld42_compo"]
+	},
+	{
+	    "id": "ld42_jam",
+	    "title": "Ludum Dare 42 jam ends",
+	    "year": 2018,
+	    "month": 8,
+	    "day": 13,
+	    "hour": 22,
+	    "minute": 0,
+	    "blocked": ["ld42_begin"]
+	},
+	{
+	    "title": "Ludum Dare 42 jam submission hour ends",
+	    "year": 2018,
+	    "month": 8,
+	    "day": 13,
+	    "hour": 23,
+	    "minute": 0,
+	    "blocked": ["ld42_jam"],
+	    "afterward": "Ludum Dare 42 is over now! See you next time!"
+	}
+    ]
+}

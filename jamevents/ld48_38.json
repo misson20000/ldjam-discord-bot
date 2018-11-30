@@ -1,0 +1,50 @@
+{
+    "channels": [
+	"#ld",
+	"#general-chat",
+	"#post-your-game"
+    ],
+    "times": [
+	{
+	    "title": "Ludum Dare 38 begins",
+	    "year": 2017,
+	    "month": 4,
+	    "day": 22,
+	    "hour": 1,
+	    "minute": 0
+	},
+	{
+	    "title": "Ludum Dare 38 compo ends",
+	    "year": 2017,
+	    "month": 4,
+	    "day": 24,
+	    "hour": 1,
+	    "minute": 0
+	},
+	{
+	    "title": "Ludum Dare 38 compo submission hour ends",
+	    "year": 2017,
+	    "month": 4,
+	    "day": 24,
+	    "hour": 2,
+	    "minute": 0
+	},
+	{
+	    "title": "Ludum Dare 38 jam ends",
+	    "year": 2017,
+	    "month": 4,
+	    "day": 25,
+	    "hour": 1,
+	    "minute": 0
+	},
+	{
+	    "title": "Ludum Dare 38 jam submission hour ends",
+	    "year": 2017,
+	    "month": 4,
+	    "day": 25,
+	    "hour": 2,
+	    "minute": 0,
+	    "afterward": "Ludum Dare 38 is over now! See you next time!"
+	}
+    ]
+}

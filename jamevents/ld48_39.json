@@ -1,0 +1,62 @@
+{
+    "channels": [
+	"#link-dump",
+	"#general-chat",
+	"#post-your-game",
+	"#ld",
+	"#screaming",
+	"#share-ideas",
+	"#promote-yourself",
+	"#secret"
+    ],
+    "times": [
+	{
+	    "id": "ld39_begin",
+	    "title": "Ludum Dare 39 begins",
+	    "year": 2017,
+	    "month": 7,
+	    "day": 29,
+	    "hour": 1,
+	    "minute": 0
+	},
+	{
+	    "id": "ld39_compo",
+	    "title": "Ludum Dare 39 compo ends",
+	    "year": 2017,
+	    "month": 7,
+	    "day": 31,
+	    "hour": 1,
+	    "minute": 0,
+	    "blocked": ["ld39_begin"]
+	},
+	{
+	    "title": "Ludum Dare 39 compo submission hour ends",
+	    "year": 2017,
+	    "month": 7,
+	    "day": 31,
+	    "hour": 2,
+	    "minute": 0,
+	    "blocked": ["ld39_compo"]
+	},
+	{
+	    "id": "ld39_jam",
+	    "title": "Ludum Dare 39 jam ends",
+	    "year": 2017,
+	    "month": 8,
+	    "day": 1,
+	    "hour": 1,
+	    "minute": 0,
+	    "blocked": ["ld39_begin"]
+	},
+	{
+	    "title": "Ludum Dare 39 jam submission hour ends",
+	    "year": 2017,
+	    "month": 8,
+	    "day": 1,
+	    "hour": 2,
+	    "minute": 0,
+	    "blocked": ["ld39_jam"],
+	    "afterward": "Ludum Dare 39 is over now! See you next time!"
+	}
+    ]
+}

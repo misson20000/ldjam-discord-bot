@@ -1,0 +1,26 @@
+{
+    "channels": [
+	"#gm48",
+	"#general-chat",
+	"#post-your-game"
+    ],
+    "times": [
+	{
+	    "title": "gm(48) 21 begins",
+	    "year": 2017,
+	    "month": 1,
+	    "day": 14,
+	    "hour": 0,
+	    "minute": 0
+	},
+	{
+	    "title": "gm(48) 21 ends",
+	    "afterward": "gm(48) is over now! See you next time!",
+	    "year": 2017,
+	    "month": 1,
+	    "day": 16,
+	    "hour": 0,
+	    "minute": 0
+	}
+    ]
+}

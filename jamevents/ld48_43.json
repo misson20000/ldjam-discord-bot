@@ -1,0 +1,52 @@
+{
+    "times": [
+	{
+	    "id": "ld43_begin",
+	    "title": "Ludum Dare 43 begins",
+	    "year": 2018,
+	    "month": 12,
+	    "day": 1,
+	    "hour": 2,
+	    "minute": 0
+	},
+	{
+	    "id": "ld43_compo",
+	    "title": "Ludum Dare 43 compo ends",
+	    "year": 2018,
+	    "month": 12,
+	    "day": 3,
+	    "hour": 2,
+	    "minute": 0,
+	    "blocked": ["ld43_begin"]
+	},
+	{
+	    "title": "Ludum Dare 43 compo submission hour ends",
+	    "year": 2018,
+	    "month": 12,
+	    "day": 3,
+	    "hour": 3,
+	    "minute": 0,
+	    "blocked": ["ld43_compo"]
+	},
+	{
+	    "id": "ld43_jam",
+	    "title": "Ludum Dare 43 jam ends",
+	    "year": 2018,
+	    "month": 12,
+	    "day": 4,
+	    "hour": 2,
+	    "minute": 0,
+	    "blocked": ["ld43_begin"]
+	},
+	{
+	    "title": "Ludum Dare 43 jam submission hour ends",
+	    "year": 2018,
+	    "month": 12,
+	    "day": 4,
+	    "hour": 3,
+	    "minute": 0,
+	    "blocked": ["ld43_jam"],
+	    "afterward": "Ludum Dare 43 is over now! See you next time!"
+	}
+    ]
+}
